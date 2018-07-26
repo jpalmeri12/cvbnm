@@ -1,0 +1,19 @@
+button, input {
+    font-family: sans-serif;
+}
+
+#textInput {
+    width: 90%;
+    height: 200px;
+}
+
+#history, body {
+    font-family: sans-serif;
+}
+
+#history {
+    width: 90%;
+    height: 500px;
+    border: 1px solid black;
+    overflow: scroll;
+}
